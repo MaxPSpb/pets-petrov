@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans|Roboto&subset=cyrillic');
+
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Fira Sans', sans-serif; */
+
+body {
+  background-color: #ede9e0;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Fira Sans', sans-serif;
+  color: #202020;
+  font-size: 48px;
+  line-height: 60px;
+}
+
+h2 {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 48px;
+  line-height: 40px;
+  text-align: center;
+}
+
+h3, cite {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 24px;
+  line-height: 40px;
+}
+
+p, blockquote {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  color: #737274;
+}
+
+a {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 16px;
+}
+
+.wrapper {
+  width: 1174px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+.content {
+  width: 955px;
+  margin: 0 auto;
+  background-image: url(../images/dog-in-a-bag.png);
+  background-repeat: no-repeat;
+
+}
+
+
+.top-section {
+  padding: 10px;
+  display: inline-block;
+  padding-bottom: 100px;
+}
+
+#logo {
+  padding-right: 165px;
+}
+
+
+.main-nav {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.nav-link {
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  padding: 0 10px 0 10px;
+  font-size: 16px;
+  line-height: 30px;
+  list-style: none;
+}
+
+
+.nav-link-color {
+  color: #202020;
+}
+
+.nav-link-color:hover {
+  color: #510fad;
+}
+
+.phone {
+  color: #510fad;
+}
+
+.first-section-wrap {
+  width: 100%;
+  display: inline-block;
+}
+
+.blank {
+  display: inline-block;
+  width: 30%;
+  height: 300px;
+}
+
+.motto {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #727173;
+  text-transform: uppercase;
+  padding-left: 10px;
+  border-left: 2px solid #510fad;
+}
+
+.first-section {
+  width: 60%;
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 100px;
+}
+
+/* Second section */
+
+.second-section-wrap {
+  width: 1020px;
+  height: 900px;
+  padding: 100px 0 0 0;
+  margin: 0px -154px 0px -154px;
+  background-image: url(../images/backround_shape.png);
+  background-repeat: no-repeat;
+  display: inline-block;
+  text-align: right;
+}
+
+.second-section {
+  width: 955px;
+}
+
+.second-section-heading {
+  text-align: center;
+  color: white;
+  display: block;
+}
+
+
+
+.paragraph-dark {
+  width: 350px;
+  display: inline-block;
+  text-align: justify;
+  color: #b8adc8;
+  padding: 0;
+
+}
+
+/* Third section */
+
+.third-section {
+  text-align: center;
+  display: inline-block;
+  padding-bottom: 100px;
+}
+
+.breed {
+  text-align: left;
+  vertical-align: top;
+  display: inline-block;
+  width: 49%;
+}
+
+.breed-wrap {
+  text-align: left;
+}
+
+.third-section-img {
+  margin: 0 15px 0 0;
+}
+
+.third-section-paragraph {
+ text-align: left;
+}
+
+.third-section-link {
+  color: #510fad;
+  text-transform: uppercase;
+}
+
+/* Fourth section */
+
+.fourth-section {
+  width: 1000px;
+  display: inline-block;
+}
+
+.feedback {
+  text-align: left;
+  width: 500px;
+  float: left;
+}
+
+.feedback-quote-mark {
+  display: block;
+}
+
+.feedback-img {
+  width: 500px;
+  text-align: center;
+  float: left;
+}
+
+cite {
+  font-style: normal;
+  display: block;
+}
+
+time {
+  text-align: left;
+  display: block;
+  padding-bottom: 10px;
+}
+
+blockquote {
+  padding: 0;
+  margin: 0;
+  color: #000;
+}
+
+/* Footer */
+
+
+
+
+
+
